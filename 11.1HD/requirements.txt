@@ -1,0 +1,10 @@
+# Exact versions used to produce the reported results (Python 3.9.13)
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+scikit-learn==1.6.1
+xgboost==2.1.4
+matplotlib==3.9.4
+notebook==6.5.7
+ipykernel==6.29.5
+nbconvert==7.17.1

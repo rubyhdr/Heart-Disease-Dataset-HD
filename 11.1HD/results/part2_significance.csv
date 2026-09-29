@@ -1,0 +1,9 @@
+variant,metric,mean diff,corrected t,corrected p,Wilcoxon p
+Ablation: clinical prep (no HPO),Accuracy,0.0209,1.2375,0.2218,0.0001
+Ablation: clinical prep (no HPO),F1,0.0172,1.1346,0.2621,0.0003
+Ablation: clinical prep (no HPO),AUC,0.0028,0.3261,0.7457,0.1729
+Ablation: clinical prep (no HPO),Brier,-0.0061,-1.1743,0.2459,0.0002
+Proposed (clinical prep + nested HPO),Accuracy,0.0139,0.8789,0.3838,0.0035
+Proposed (clinical prep + nested HPO),F1,0.0108,0.7422,0.4615,0.0121
+Proposed (clinical prep + nested HPO),AUC,0.0018,0.2159,0.83,0.5025
+Proposed (clinical prep + nested HPO),Brier,-0.0032,-0.6194,0.5385,0.0607
